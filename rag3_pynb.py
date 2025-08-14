@@ -32,9 +32,9 @@ from google.colab import files
 
 from google.colab import files
 
-PINECONE_API_KEY = 'pcsk_6vE8KA_5onMVjpnZhja7eXz263RbA7JtKARSCHpkLQqDExKWMwLLd3uC6dccUVQ7fnmMk7'
-PINECONE_INDEX ='rag3'
-GENAI_API_KEY = 'AIzaSyBB0irbxOR59HdylF49270dEDI2dNjpWuw'
+PINECONE_API_KEY = ''
+PINECONE_INDEX =''
+GENAI_API_KEY = ''
 
 # Initialize services
 pc = Pinecone(api_key=PINECONE_API_KEY)
