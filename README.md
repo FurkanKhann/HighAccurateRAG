@@ -96,7 +96,7 @@ Query → Semantic Search → Page Number Retrieval → Complete Page Content �
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Areas for Contribution
 - Performance optimization algorithms
@@ -107,13 +107,13 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 👤 Author
 
 **Furkan Khan** - AI Researcher  
 - Research Focus: Advanced RAG Systems & Context Preservation
-- Contact: [Your Contact Information]
+- Contact: khanfurkan575@gmail.com
 
 ---
 
